@@ -1,0 +1,7 @@
+/**
+ * Main Plugin Stylesheet
+ */
+.hide-opponent, .hide-league { display: none; }
+table.leaderboard-container { table-layout:fixed; width: 100% !important; }
+.win_flg { display: inline-block; padding: 5px; background-color: #368C04; color: #fff; line-height: 1; margin-right: 2px; }
+.lose_flg { display: inline-block; padding: 5px; background-color: #F90404; color: #fff; line-height: 1; margin-right: 2px; }
